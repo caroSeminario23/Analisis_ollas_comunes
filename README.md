@@ -35,12 +35,12 @@ Este proyecto consiste en el análisis de la situación de las ollas comunes en 
     - **Paso 4**  
         <img src="images/Instruccion_4.png" alt="Paso 4" width="400">
 
-## Contribuidores 
+## 5. Contribuidores 
 - Carolina Seminario (elaboró el dashboard)
 - Alexis Hernandez (aportó fuentes)
 - Aracely Rivera (aportó fuentes)
 - Jamil Túncar (aportó fuentes)
 - Leo Soto (aportó fuentes)
 
-## 5. Licencia
+## 6. Licencia
 [![Licencia](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
